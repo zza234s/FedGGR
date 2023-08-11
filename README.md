@@ -1,6 +1,6 @@
 # FedGGR
 
-The code for the paper "Subgraph Federated Learning with Global Graph Reconstruction"
+The official code for the paper "Subgraph Federated Learning with Global Graph Reconstruction"
 
 
 
